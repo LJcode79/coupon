@@ -1,0 +1,7 @@
+10/15
+22.99 percentage 02/28 50
+25.50 percentage 11/01 25
+20.99 deduction 09/30 5 25
+15.99 deduction 10/15 5 25
+35.90 deduction 08/31 5 25
+40.50 deduction 11/30 5 25
